@@ -14,7 +14,7 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 
 | # | Topic     | Problem Title | Problem Link | Video | Code |
 |--:|-----------|---------------|--------------|--------|------|
-| 1 | DSA Introduction  |       |       | [Recording](####) |       |
+| 1 | DSA Introduction  |       |       | [Recording](https://www.facebook.com/share/v/1CLkBVcrjB/) |       |
 <!-- | 1 | DSA Introduction  | Two Sum       | [LeetCode #1](https://leetcode.com/problems/two-sum/) | [Recording](####) | [Code](Problems/Array/two-sum.js) | -->
 
 ---
