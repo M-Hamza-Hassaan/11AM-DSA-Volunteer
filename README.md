@@ -12,10 +12,10 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 
 ### ✅ Progress Tracker
 
-| # | Topic     | Problem Title | Problem Link | Video | Code |
+| # | Topic     | Problem Title | Leetcode Link | Fb Link | Code Link |
 |--:|-----------|---------------|--------------|--------|------|
 | 1 | DSA Introduction  |       |       | [Recording](https://www.facebook.com/share/v/1CLkBVcrjB/) |       |
-<!-- | 1 | DSA Introduction  | Two Sum       | [LeetCode #1](https://leetcode.com/problems/two-sum/) | [Recording](####) | [Code](Problems/Array/two-sum.js) | -->
+| 2 | Array, Simulation  | 1929. Concatenation of Array      | [Problem](https://leetcode.com/problems/concatenation-of-array/) | [Recording](https://www.facebook.com/share/v/1CKUTcYz1b/) | [Code](https://github.com/M-Hamza-Hassaan/DSA-Journey/blob/main/2058-concatenation-of-array/2058-concatenation-of-array.py) |
 
 ---
 
