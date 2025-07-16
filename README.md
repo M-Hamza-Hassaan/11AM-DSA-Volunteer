@@ -16,6 +16,7 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 |--:|-----------|---------------|--------------|--------|------|
 | 1 | DSA Introduction  |       |       | [Recording](https://www.facebook.com/share/v/1CLkBVcrjB/) |       |
 | 2 | Array, Simulation  | 1929. Concatenation of Array      | [Problem](https://leetcode.com/problems/concatenation-of-array/) | [Recording](https://www.facebook.com/share/v/1CKUTcYz1b/) | [Code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/2058-concatenation-of-array) |
+| 3 | Linear and Binary Search  |       |       | [Recording](https://www.facebook.com/share/v/1CLqpySjAJ/) |       |
 
 ---
 
