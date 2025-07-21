@@ -19,7 +19,6 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 | 3 | Linear Search  |       |       | [Recording](https://www.facebook.com/share/v/1CLqpySjAJ/) |       |
 | 4 | Binary Search  |       |       | [Recording](https://www.facebook.com/share/v/14FG5yGpzJx/) |       |
 | 5 | Two Pointers, String  | 344. Reverse String      | [Problem](https://leetcode.com/problems/reverse-string) | [Recording](https://www.facebook.com/share/v/14DvW3jBPe1/) | [Code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0344-reverse-string) | 
-
 | 6 | Binary Search, Array  |  153. Find Minimum in Rotated Sorted Array   | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)      | [Recording](https://fb.watch/AZ-AJ0zB-r/) |       |
 ---
 
