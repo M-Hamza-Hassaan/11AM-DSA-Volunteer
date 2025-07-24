@@ -22,7 +22,7 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 | 6 | Binary Search, Array  |  153. Find Minimum in Rotated Sorted Array   | [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)      | [Recording](https://fb.watch/AZ-AJ0zB-r/) |    [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0153-find-minimum-in-rotated-sorted-array)   |
 | 7 | Binary Search, Array  |  852. Peak Index in a Mountain Array  | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)      | [Recording](https://www.facebook.com/share/v/1DGK38YQxB/) |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0882-peak-index-in-a-mountain-array)    |
 | 8 | String  |  13. Roman to Integer   | [Problem](https://leetcode.com/problems/roman-to-integer/description/)      | [Recording](https://www.facebook.com/share/v/1Bw9KjGqe6/) |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0013-roman-to-integer)    |
-| 9 | String  |  551. Student Attendance Record I   | [Problem](https://leetcode.com/problems/student-attendance-record-i/description/)      | [Recording](https://www.facebook.com/share/v/1Cmg6WqCod/) |       |
+| 9 | String  |  551. Student Attendance Record I   | [Problem](https://leetcode.com/problems/student-attendance-record-i/description/)      | [Recording](https://www.facebook.com/share/v/1Cmg6WqCod/) |    [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0551-student-attendance-record-i)   |
 ---
 
 ### 🧠 Topics to be Covered
