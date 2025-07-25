@@ -29,7 +29,7 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 ### 🧠 Topics to be Covered
 
 - Arrays  ✔️
-- Strings  
+- Strings  ✔️
 - Hashing  
 - Stack & Queue  
 - Linked List  
