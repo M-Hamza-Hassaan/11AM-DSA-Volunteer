@@ -25,8 +25,8 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 | 9 | String  |  551. Student Attendance Record I   | [Problem](https://leetcode.com/problems/student-attendance-record-i/description/)      | [Recording](https://www.facebook.com/share/v/1Cmg6WqCod/) |    [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0551-student-attendance-record-i)   |      
 | 10 | Array, Hash Table  |   1275. Find Winner on a Tic Tac Toe Game  | [Problem](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)      | [Recording](https://www.facebook.com/share/v/1GSEpf7tCL/) |       |   
 | 11 | Linked List  |     |    | [Recording](https://www.facebook.com/share/v/19gBn96qXq/) |       |   
-| 12 | Hash Table, Linked List, Two Pointers  |  141. Linked List Cycle   |  [Problem 1](https://leetcode.com/problems/linked-list-cycle/description/?envType=problem-list-v2&envId=linked-list)  | [Recording]() |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0141-linked-list-cycle)    |   
-| 13 | Linked List, Two Pointers, Weekly Contest 95  |  876. Middle of the Linked List   |  [Problem 2](https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=problem-list-v2&envId=linked-list)  | [Recording]() |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0908-middle-of-the-linked-list)    |   
+| 12 | Hash Table, Linked List, Two Pointers  |  141. Linked List Cycle   |  [Problem 1](https://leetcode.com/problems/linked-list-cycle/description/?envType=problem-list-v2&envId=linked-list)  | [Recording](https://www.facebook.com/share/v/16hYaoj48G/) |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0141-linked-list-cycle)    |   
+| 13 | Linked List, Two Pointers, Weekly Contest 95  |  876. Middle of the Linked List   |  [Problem 2](https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=problem-list-v2&envId=linked-list)  | [Recording](https://www.facebook.com/share/v/16hYaoj48G/) |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0908-middle-of-the-linked-list)    |   
 ---
 
 ### 🧠 Topics to be Covered
