@@ -28,7 +28,7 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 | 12 | Hash Table, Linked List, Two Pointers  |  141. Linked List Cycle   |  [Problem 1](https://leetcode.com/problems/linked-list-cycle/description/?envType=problem-list-v2&envId=linked-list)  | [Recording](https://www.facebook.com/share/v/16hYaoj48G/) |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0141-linked-list-cycle)    |   
 | 13 | Linked List, Two Pointers, Weekly Contest 95  |  876. Middle of the Linked List   |  [Problem 2](https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=problem-list-v2&envId=linked-list)  | [Recording](https://www.facebook.com/share/v/16hYaoj48G/) |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0908-middle-of-the-linked-list)    |   
 | 14 | Linked List  |  237. Delete Node in a Linked List  |  [Problem 1](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)  | [Recording](https://www.facebook.com/share/v/1JXj8256Ak/) |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0237-delete-node-in-a-linked-list)    |   
-| 15 | Linked List  |  83. Remove Duplicates from Sorted List   |  [Problem 2](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)  | [Recording](https://www.facebook.com/share/v/16hYaoj48G/) |   [code]()    |   
+| 15 | Linked List  |  83. Remove Duplicates from Sorted List   |  [Problem 2](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)  | [Recording](https://www.facebook.com/share/v/16hYaoj48G/) |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0083-remove-duplicates-from-sorted-list)    |   
 ---
 
 ### 🧠 Topics to be Covered
