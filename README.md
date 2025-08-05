@@ -31,6 +31,8 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 | 14 | Linked List  |  83. Remove Duplicates from Sorted List   |  [Problem 2](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)  | [Recording](https://www.facebook.com/share/v/16hYaoj48G/) |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0083-remove-duplicates-from-sorted-list)    |   
 | 15 | Linked List  |  328. Odd Even Linked List  |  [Problem 1](https://leetcode.com/problems/odd-even-linked-list/description/)  | [Recording](https://www.facebook.com/share/v/12L9BUMSnLM/) |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0328-odd-even-linked-list)    |   
 | 15 | Linked List  |  2. Add Two Numbers  |  [Problem 2](https://leetcode.com/problems/add-two-numbers/description/)  | [Recording](https://www.facebook.com/share/v/12L9BUMSnLM/) |   [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0002-add-two-numbers)    |   
+| 16 | Linked List  |  21. Merge Two Sorted Lists  |  [Problem 1](https://leetcode.com/problems/merge-two-sorted-lists/description/)  | [Recording](https://www.facebook.com/share/v/177ZFeGkzR/) |       |
+| 16 | Linked List  |  2807. Insert Greatest Common Divisors in Linked List  |  [Problem 2](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)  | [Recording](https://www.facebook.com/share/v/177ZFeGkzR/) |       |
 ---
 
 ### 🧠 Topics to be Covered
