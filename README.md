@@ -41,8 +41,8 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 
 - Arrays  ✔️
 - Strings  ✔️
-- Hashing  
-- Stack & Queue  
+- Hashing  ✔️
+- Stack & Queue  ✔️
 - Linked List  
 - Recursion & Backtracking  
 - Binary Trees & BSTs  
