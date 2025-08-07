@@ -35,7 +35,7 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 | 16 | Linked List  |  2807. Insert Greatest Common Divisors in Linked List  |  [Problem 2](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/)  | [Recording](https://www.facebook.com/share/v/177ZFeGkzR/) |       |
 | 17 | Linked List  |  19. Remove Nth Node From End of List  |  [Problem 1](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)  | [Recording](https://www.facebook.com/share/v/1ZNyThjnkt/) |       |
 | 17 | Linked List  |  206. Reverse Linked List   |  [Problem 2](https://leetcode.com/problems/reverse-linked-list/description/)  | [Recording](https://www.facebook.com/share/v/18RAcdvbTH/) |       |
-| 19 | Array, Hashtable  |  939. Minimum Area Rectangle  |  [Problem](https://leetcode.com/problems/minimum-area-rectangle/description/)  | [Recording](https://www.facebook.com/share/v/1EhHzNwDck/) |       |
+| 19 | Array, Hashtable  |  939. Minimum Area Rectangle  |  [Problem](https://leetcode.com/problems/minimum-area-rectangle/description/)  | [Recording](https://www.facebook.com/share/v/1EhHzNwDck/) |  [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0976-minimum-area-rectangle)    |
 ---
 
 ### 🧠 Topics to be Covered
