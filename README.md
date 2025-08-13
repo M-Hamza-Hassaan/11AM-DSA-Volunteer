@@ -36,6 +36,7 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 | 17 | Linked List  |  19. Remove Nth Node From End of List  |  [Problem 1](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)  | [Recording](https://www.facebook.com/share/v/1ZNyThjnkt/) |       |
 | 17 | Linked List  |  206. Reverse Linked List   |  [Problem 2](https://leetcode.com/problems/reverse-linked-list/description/)  | [Recording](https://www.facebook.com/share/v/18RAcdvbTH/) |       |
 | 19 | Array, Hashtable  |  939. Minimum Area Rectangle  |  [Problem](https://leetcode.com/problems/minimum-area-rectangle/description/)  | [Recording](https://www.facebook.com/share/v/1EhHzNwDck/) |  [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0976-minimum-area-rectangle)    |
+| 21 | Trees Traversal  |    |    | [Recording](https://www.facebook.com/share/v/1FaEwRzSK1/) |     |
 | 23 | Trees Traversal  |    |    | [Recording](https://www.facebook.com/share/v/174fndjq2T/) |     |
 ---
 
