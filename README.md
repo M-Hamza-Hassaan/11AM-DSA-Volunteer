@@ -40,7 +40,10 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 | 23 | Trees Traversal  |    |    | [Recording](https://www.facebook.com/share/v/174fndjq2T/) |     |
 | 24 | Stack Tree Depth-First Search Binary Tree |  94. Binary Tree Inorder Traversal  |  [Problem](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)  | [Recording](https://www.facebook.com/share/v/15z5PQqw9m/) | [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0094-binary-tree-inorder-traversal)    |
 | 25 | Recursion  |    |    | [Recording](https://www.facebook.com/share/v/19TjGtfxA4/) |     |
+| 25 | Tree  |    |    | [Recording](https://www.facebook.com/share/v/19RafEkcKU/) |     |
 ---
+
+
 
 ### 🧠 Topics to be Covered
 
