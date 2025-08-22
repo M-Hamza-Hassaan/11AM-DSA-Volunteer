@@ -42,6 +42,7 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 | 25 | Recursion  |    |    | [Recording](https://www.facebook.com/share/v/19TjGtfxA4/) |     |
 | 26 | Tree  |    |    | [Recording](https://www.facebook.com/share/v/19RafEkcKU/) |     |
 | 27 | Tree  |  144. Binary Tree Preorder Traversal  |  [Problem](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)    | [Recording](https://www.facebook.com/share/v/1ENfyq1aDH/) |  [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0144-binary-tree-preorder-traversal)   |
+| 28 | Tree  |  102. Binary Tree Level Order Traversal  |  [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)    | [Recording](https://www.facebook.com/share/v/178PGYLeRL/) |     |
 ---
 
 
