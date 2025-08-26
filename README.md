@@ -46,7 +46,7 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 | 29 | Tree  |  102. Binary Tree Level Order Traversal  |  [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)    | [Recording](https://www.facebook.com/share/v/178PGYLeRL/) |  [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0102-binary-tree-level-order-traversal)   |
 | 30 | Tree Breadth-First Search Binary Tree  |  107. Binary Tree Level Order Traversal II |  [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)    | [Recording](https://www.facebook.com/share/v/1EZYbQBbZw/) |  [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0107-binary-tree-level-order-traversal-ii)   |
 | 31 | Tree DFS BFS Binary Tree  |  1161. Maximum Level Sum of a Binary Tree  |  [Problem](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)    | [Recording](https://www.facebook.com/share/v/1EZYbQBbZw/) |  [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0102-binary-tree-level-order-traversal)   |
-| 32 | Tree, Binary Search tree, Binary tree  |  700. Search in a Binary Search Tree  |  [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)    | [Recording](https://www.facebook.com/share/v/1BDzdsuZYZ/) |  [code]()  |
+| 32 | Tree, Binary Search tree, Binary tree  |  700. Search in a Binary Search Tree  |  [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)    | [Recording](https://www.facebook.com/share/v/1BDzdsuZYZ/) |    |
 ---
 
 
