@@ -47,6 +47,8 @@ in this repository we have saved our work in the form of session recordings, our
 | 30 | Tree Breadth-First Search Binary Tree  |  107. Binary Tree Level Order Traversal II |  [Problem](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)    | [Recording](https://www.facebook.com/share/v/1EZYbQBbZw/) |  [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0107-binary-tree-level-order-traversal-ii)   |
 | 31 | Tree DFS BFS Binary Tree  |  1161. Maximum Level Sum of a Binary Tree  |  [Problem](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)    | [Recording](https://www.facebook.com/share/v/1EZYbQBbZw/) |  [code](https://github.com/M-Hamza-Hassaan/DSA-Journey/tree/main/0102-binary-tree-level-order-traversal)   |
 | 32 | Tree, Binary Search tree, Binary tree  |  700. Search in a Binary Search Tree  |  [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)    | [Recording](https://www.facebook.com/share/v/1BDzdsuZYZ/) |    |
+| 34 | Array, Binary Search, two pointers   |  167. Two Sum II - Input Array Is Sorted  |  [Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)    | [Recording](https://www.facebook.com/share/v/14KQv9UY9DD/) |    |
+| 35 | Tree, Binary Search tree, Binary tree  |  96. Unique Binary Search Trees  |  [Problem](https://leetcode.com/problems/unique-binary-search-trees/description/)    | [Recording](https://www.facebook.com/share/v/1CGJCSSdh3/) |    |
 ---
 
 
