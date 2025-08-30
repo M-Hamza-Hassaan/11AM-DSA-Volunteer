@@ -1,7 +1,7 @@
 ## 📚 DSA For Absolute Beginners – Notes, Code & Recordings 🎥
 
 Welcome to the official repository for our **Data Structures & Algorithms (DSA)** sessions!  
-This repo mirrors the structure of the *Google 500 DSA Questions* and serves as a comprehensive learning hub, including:
+in this repository we have saved our work in the form of session recordings, our solutions and the problem link. 
 
 - ✅ Solved problem checklist  
 - 🔗 Direct problem links  
@@ -59,13 +59,8 @@ This repo mirrors the structure of the *Google 500 DSA Questions* and serves as 
 - Sliding Window & Two Pointers  ✔️
 - Linked List  ✔️
 - Binary Trees & BSTs  ✔️
-- Recursion & Backtracking  
-- Stack & Queue
-- Heap & Priority Queue  
-- Graphs  
-- Dynamic Programming  
-- Greedy Algorithms  
-
+- Recursion & Backtracking  ✔️
+- Stack & Queue  ✔️
 ---
 
 ### 📌 How to Use This Repository
